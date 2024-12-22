@@ -1,0 +1,8 @@
+
+train: ./data/water/images/train  # 
+val: ./data/water/images/val      # 
+test: ./data/water/images/test    # 
+
+nc: 6
+
+names: ['driveway', 'pole', 'pier', 'rain_gutter', 'water_area', 'water_side']

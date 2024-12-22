@@ -1,0 +1,8 @@
+*.egg-info
+__pycache__/
+
+data/math
+data/water
+2_dataset_train_math
+2_dataset_val_math
+runs
